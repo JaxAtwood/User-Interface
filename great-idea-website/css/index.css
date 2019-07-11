@@ -64,3 +64,103 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+header nav a {
+	color: gray;
+	text-decoration: none;
+	margin: 10px;
+	padding: 10px;
+}
+
+nav {
+	display: inline-block;
+	margin-top: 10px;
+}
+
+.test {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+
+section {
+	position: relative;
+	display: block;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+header {
+	height: 100px;
+	padding: 30px;
+}
+
+.test {
+	position: relative;
+}
+
+.circle {
+	float: right;
+}
+
+.container {
+	margin: 0 auto;
+	width: 900px;
+}
+
+.logo {
+	float: right;
+}
+
+.column33 {
+	display: inline-block;
+	margin: 0 auto;
+	width: 33%;
+}
+
+.middle-img {
+	width: 900px;
+}
+
+.test1 {
+	padding-top: 50px;
+}
+
+.button {
+	border: 1px solid black;
+	text-align: center;
+	width: 100px;
+	margin: 0 auto;
+}
+
+.jumbotron{
+	position: relative;
+}
+
+.cta{
+	position: absolute;
+	top: 50px;
+	left: 50px;
+}
+
+.header-img {
+	position: absolute;
+	top: 0px;
+	right: 0px;
+}
+
+.inline {
+	display: inline-block;
+	margin: 0 auto;
+	width: 49%;
+}
+
+h1{
+	font-size: 50px;
+	text-align: center;
+	margin: 50px;
+}
+
+.copyright {
+	text-align: center;
+}
